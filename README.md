@@ -5,4 +5,4 @@ definision from [Kateglo](http://kateglo.lostfocus.org/)
 
 ## Usage
 > node app.js [number of words]
-- number of words: Integet, default: 1
+- number of words: Integer, default: 1
